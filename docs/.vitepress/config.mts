@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "dosukoi_blog",
+  title: "どすこい",
   description: "dosukoi_blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
