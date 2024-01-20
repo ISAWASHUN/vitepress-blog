@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "どすこい",
   description: "dosukoi_blog",
+  base: "/vitepress-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
